@@ -1,4 +1,5 @@
 Nextcloud Files Clipboard for version 12 to 18
+-----------
 
 Description
 -----------
