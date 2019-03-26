@@ -16,7 +16,7 @@
     <screenshot>https://raw.githubusercontent.com/leizh/owncloud-files_clipboard/master/appinfo/screenshot.gif</screenshot>
     <dependencies>
         <owncloud min-version="9.0" max-version="10" />
-        <nextcloud min-version="12" max-version="12" />
-        <php min-version="5.4" max-version="7.9" />
+        <nextcloud min-version="18" max-version="18" />
+        <php min-version="5.4" max-version="8.4" />
     </dependencies>
 </info>
