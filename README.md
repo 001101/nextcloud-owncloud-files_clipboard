@@ -1,3 +1,5 @@
+Nextcloud Files Clipboard for version 12 to 18
+
 Description
 -----------
 Minimal clipboard feature for the files application. Allows to copy and move files between directories.
