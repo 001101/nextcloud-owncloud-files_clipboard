@@ -1,4 +1,4 @@
-Nextcloud / Owncloud Files Clipboard for version 12 to 18
+Nextcloud / Owncloud Files Clipboard for version 12 & 13 up to 18
 -----------
 
 Description
