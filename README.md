@@ -1,5 +1,6 @@
 Nextcloud / Owncloud Files Clipboard for version 12 & 13 up to 18
 -----------
+From Nextcloud 13 it is integrated now, but some functions are still better in this module
 
 Description
 -----------
