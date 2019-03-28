@@ -1,6 +1,8 @@
 Nextcloud / Owncloud Files Clipboard for version 12 & 13 up to 18
 -----------
-From Nextcloud 13 it is integrated now, but some functions are still better in this module
+From Nextcloud 13 it is integrated now, but with a own different file browser, here you still can search and sort
+
+Ref: https://github.com/leizh/owncloud-files_clipboard/issues/38#issuecomment-368486491
 
 Description
 -----------
